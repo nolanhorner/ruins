@@ -10,3 +10,5 @@ For people who don't have UE4, here are some pictures of what the game looks lik
 ![alt text](https://github.com/nolanhorner/ruins/blob/master/Screenshots/Ruins1.png)
 
 ![alt text](https://github.com/nolanhorner/ruins/blob/master/Screenshots/Ruins2.png)
+
+![alt text](https://github.com/nolanhorner/ruins/blob/master/Screenshots/Ruins3.png)
